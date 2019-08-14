@@ -9,4 +9,5 @@
 
     $password = $_REQUEST['pwd'];
     echo $password.'<br />';
+
 ?>
